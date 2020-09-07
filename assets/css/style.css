@@ -1,0 +1,41 @@
+/*----------------------------------------------------*/
+/*font Variables*/
+/*Color Variables*/
+/*=================== fonts ====================*/
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500|Rubik:500,700");
+/*---------------------------------------------------- */
+/*----------------------------------------------------*/
+/* Medium Layout: 1280px */
+/* Tablet Layout: 768px */
+/* Mobile Layout: 320px */
+/* Wide Mobile Layout: 480px */
+/*---------------------------------------------------- */
+/*----------------------------------------------------*/
+
+body{
+
+    font-family:"Roboto", sans-serif;
+    font-weight: 400;
+    color: #777777;
+    background: url(../images/home-right.png)no-repeat center;}
+  
+  
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  color: #000000;
+ }
+
+
+ .tst{
+     border: 2px solid cyan;
+     padding: 20px 60px;
+ }
